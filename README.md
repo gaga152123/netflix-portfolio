@@ -1,22 +1,26 @@
 # 🎬 Netflix Content Growth Analysis
 
-This project analyzes the growth of Netflix’s content library over the years using Python.  
-It includes yearly trends, TV vs. Movie comparison, and country-level insights.
+This project visualizes how Netflix’s content library has evolved over time.  
+It focuses on data storytelling through clear and simple visualizations.
 
 ## 🔍 Project Highlights
 - 📈 Year-over-year content growth visualization
 - 🎭 TV Shows vs. Movies trend analysis
-- 🌎 Country-level content comparison
-- 📊 Simple storytelling with charts
+- 🌎 Country-level content breakdown
+- 📊 Created using Python (Pandas + Matplotlib)
 
 ## 🛠️ Tools Used
 - Python (Pandas, Matplotlib)
-- Jupyter Notebook / Colab
-- CSV file parsing and image-based insights
+- Google Colab / Jupyter Notebook
+- Public Netflix dataset (CSV format)
 
-## 📄 Portfolio Format
-- 📎 [View PDF Portfolio](https://github.com/gaga152123/netflix-portfolio/blob/main/넷플릭스_콘텐츠_포트폴리오_최종.pdf)
-- 🔗 GitHub project includes CSV, charts, and analysis scripts
+## 📄 PDF Version
+This project also includes a complete PDF version of the Netflix Content Analysis Portfolio.  
+You can download and review it here:
 
-> ✅ This project was created to demonstrate storytelling through data visualization and trend analysis.
+👉 [Download Full PDF Portfolio](https://github.com/gaga152123/netflix-portfolio/blob/main/Netflix_Content_Analysis_Portfolio_Final.pdf)
+
+## 💡 Use Cases
+- Demonstrating storytelling through data visualization
+- Ideal for freelance data visualization portfolio
 
