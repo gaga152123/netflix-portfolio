@@ -14,6 +14,17 @@ This project analyzes open Netflix content data and showcases key Python-based d
 - 📄 [Korean Version (PDF)](https://github.com/gaga152123/netflix-portfolio/blob/main/넷플릭스_콘텐츠_포트폴리오_최종.pdf)
 - 📄 [English Version (PDF)](https://github.com/gaga152123/netflix-portfolio/blob/main/Netflix_Content_Analysis_Portfolio_Final.pdf)
 
+
+## 📊 Sample Visualization  
+![Netflix Content by Year](year_trend.png)
+
+
+## 📊 Sample Visualization  
+The chart below shows the number of Netflix titles released each year.  
+![Netflix Content by Year](year_trend.png)
+
+
+
 ## ⚙️ Technologies Used
 
 - Python (pandas, matplotlib)
