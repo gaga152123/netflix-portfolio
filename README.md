@@ -16,10 +16,6 @@ This project analyzes open Netflix content data and showcases key Python-based d
 
 
 ## 📊 Sample Visualization  
-![Netflix Content by Year](year_trend.png)
-
-
-## 📊 Sample Visualization  
 The chart below shows the number of Netflix titles released each year.  
 ![Netflix Content by Year](year_trend.png)
 
